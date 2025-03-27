@@ -43,8 +43,6 @@ python main.py
 
 ### 🎥 Ejemplo de Uso
 
-Aquí puedes agregar un GIF demostrando cómo funciona la aplicación:
-
 ![Demostración](https://drive.google.com/file/d/1fUP4weSKIpQRQbSTb18E2fPIWFvfWwXR/view?usp=drive_link)
 
 
